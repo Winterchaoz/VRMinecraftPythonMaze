@@ -7,7 +7,11 @@ You can use the provided world as a blank copy to generate the maze in.  You wil
 
 The goal of the maze is to hit each of the 4 clearly marked levers to unlock the waterfall at the beginning of the maze so you can swim to the surface.
 
+For more info on how to setup the minecraft server for the python code:
+https://github.com/AdventuresInMinecraft
+
 For more information on how to use python in minecraft, you can check out the link below:
 https://projects.raspberrypi.org/en/projects/getting-started-with-minecraft-pi
 
 Or you can checkout the book that I used: "Adventures in Minecraft", 2nd Edition, by David Whale & Martin O'Hanlon
+--> the same people that made the github page https://github.com/AdventuresInMinecraft
