@@ -95,7 +95,8 @@ for i in range(h):
 for i in range(5):
     for j in range(5):
         maze[i+starty][j+startx]=3
-
+        
+#set lever positions in each corner of the maze in the matrix
 maze[1][1]=5
 maze[2][1]=6
 maze[h-3][1]=6
